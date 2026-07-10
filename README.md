@@ -95,3 +95,11 @@ New features, user experience enhancements, and multilingual resources are part 
 Multilingual App Developer | AI QA Specialist | Language Technology Professional
 
 ⭐ Building practical technology for global communities.
+## 🚀 Live Demo
+
+Explore the current production version of Migrant Connection:
+
+🌐 **Live Application:**  
+https://migrant-connection-106231603328.us-east1.run.app
+
+> This public demo showcases the platform experience while private source code, credentials, API keys, environment variables, and sensitive backend configurations remain protected.
