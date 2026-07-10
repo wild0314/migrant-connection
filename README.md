@@ -103,3 +103,24 @@ Explore the current production version of Migrant Connection:
 https://migrant-connection-106231603328.us-east1.run.app
 
 > This public demo showcases the platform experience while private source code, credentials, API keys, environment variables, and sensitive backend configurations remain protected.
+> ## 📱 Application Screenshots
+
+Explore key features of the Migrant Connection platform across mobile experiences.
+
+### 🌍 Smart Geolocation & Country Detection
+![Migrant Connection Welcome and Geolocation](01-welcome-geolocation.png)
+
+### 🏠 Country-Aware Home Dashboard
+![Migrant Connection Home Dashboard](02-home-dashboard.png)
+
+### 🤖 AI-Powered Migration Assistant
+![Migrant Connection AI Assistant](03-ai-assistant.png)
+
+### 🎓 International Scholarships & Student Resources
+![Migrant Connection International Scholarships](04-international-scholarships.png)
+
+### ⚖️ Verified Legal Aid Directories
+![Migrant Connection Verified Legal Aid](05-verified-legal-aid.png)
+
+### 💼 International Business Support Center
+![Migrant Connection Business Center](06-business-center.png)
